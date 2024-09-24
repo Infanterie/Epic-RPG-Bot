@@ -1,5 +1,5 @@
 # Epic-RPG-Bot
-Epic RPG Bot - Discord Mod 
+Epic RPG Bot - Discord Mod / Use source code to build into new .exe (Auto py to exe) or use the .exe. Identical.
 
 Epic RPG Discord: https://discord.gg/epicrpg
 
